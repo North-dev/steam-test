@@ -3,5 +3,5 @@ function cb() {
 	x.select();
 	navigator.clipboard.writeText(x.value);
 	alert("Copied the text: " + x.value);
-	window.location.replace("http://www.w3schools.com");
+	window.location.replace("https://steamcommunity.com/id/htgshawn/");
 }
